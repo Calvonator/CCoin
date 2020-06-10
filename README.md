@@ -16,4 +16,6 @@ A timestamp is recorded for each transaction. The user can enter as many transac
 
 # Blocking Program
 
-While executing, this program waits for new transactions to be generated within the /transactions folder. When a new transaction is found, the program begins the process of adding the transaction block into the 
+While executing, this program waits for new transactions to be generated within the /transactions folder. When a new transaction is found, the program begins the process of adding the transaction block into the blockchain. First checks if a genesis block exists and then forms the block by appending the previous blocks hash (chaining), generating a nonce number (14 zeros anywhere within the hash) and then placing this block into the blockchain. 
+
+
