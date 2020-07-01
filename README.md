@@ -3,7 +3,7 @@ Cryptographic Concepts Unit Assignment to create a blockchain system.
 
 The current program is limited in its functionality as it is only meant to meet the requirements of an assessment rubric.
 
-Currerntly, their are two CLI programs - the transaction and blocking program. 
+Currerntly, there are two CLI programs - the transaction and blocking program. 
  
 # Transaction Recording Program
 
